@@ -10,7 +10,7 @@ This repository contains a copy of my updated resume in PDF format.
 ## 🔗 View on GitHub
 
 Click below to view the resume directly in your browser:  
-[👉 View Resume PDF](https://github.com/your-username/Pranay-Resume/blob/main/Pranay%20Shesh%20cv.pdf)
+[👉 View Resume PDF](https://github.com/PranayShesh18/Pranay-Resume/blob/main/Pranay%20Shesh%20CV%20.pdf)
 
 ## 📬 Contact Me
 

@@ -5,7 +5,7 @@ This repository contains a copy of my updated resume in PDF format.
 
 ## 📎 File
 
-- [Pranay Shesh cv.pdf](./Pranay%20Shesh%20cv.pdf)
+- [Pranay Shesh cv.pdf](Pranay%20Shesh%20CV%20%20(1).pdf)
 
 ## 🔗 View on GitHub
 
